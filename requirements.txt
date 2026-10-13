@@ -5,3 +5,4 @@ numpy
 joblib
 pyyaml
 matplotlib
+dvc
