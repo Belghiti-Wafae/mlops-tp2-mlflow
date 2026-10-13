@@ -1,10 +1,11 @@
+
+
 # Environnement virtuel et caches Python
 .venv/
 __pycache__/
 *.pyc
 
-# Données, modèles et rapports générés
-data/
+# Modèles et rapports générés
 models/
 reports/
 
